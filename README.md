@@ -21,7 +21,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_Security-0078D6?style=for-the-badge&logo=windows&logoColor=white%22 />
 </p>
- 
+
+<br>
+
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />

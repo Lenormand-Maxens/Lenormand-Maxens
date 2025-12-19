@@ -1,7 +1,7 @@
 <p align="center">
-<img src="./wallpaper.gif" alt="City Night" width="100%" style="border-radius: 10px;" />
+<img src="./MimCat.gif" alt="City Night" width="54%" style="border-radius: 10px;" />
 </p>
- 
+
 <h1 align="center">Hi there, I'm Maxens Lenormand</h1>
 <h3 align="center">System & Security Administrator @ M2S-Formation</h3>
  

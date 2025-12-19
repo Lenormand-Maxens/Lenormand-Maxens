@@ -25,17 +25,21 @@ I'm focused on reliable infrastructure: backups, monitoring, virtualization and 
 ### 🔧 Tech & Tools
 <p>
 <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-%237D4C9A?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Wazuh-00A9F4?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-- Virtualization: Proxmox, VM templates, snapshots
-- Monitoring & detection: Wazuh, alerts and playbooks
-- Automation: PowerShell, Bash, Python
-- Administration: Ubuntu & Windows, backups, log analysis
+- Virtualization: **Proxmox**, VM templates, snapshots and backup strategies
+- OS & Servers: **Debian**, **Windows Server** administration and hardening
+- Monitoring & detection: **Wazuh**, centralized logs, alerts and playbooks
+- Automation & scripting: **PowerShell**, **Bash**, **Python** for backups and remediation
+- Tools & workflow: **Git**, **Visual Studio Code**, log analysis
 
     </td>
     <td valign="top" width="45%" align="center">
